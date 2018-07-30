@@ -6,6 +6,8 @@ class Post
     @name = name
   end
 
-
+  def self.author
+    @author
+  end
 
 end
