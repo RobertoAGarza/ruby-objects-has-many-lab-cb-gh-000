@@ -7,12 +7,12 @@ class Post
     @@all << self
   end
 
-  def author
-    @author
-  end
-
   def all
     @@all
+  end
+
+  def author_name
+    @author
   end
 
 end
