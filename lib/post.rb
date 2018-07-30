@@ -10,7 +10,4 @@ class Post
     @author
   end
 
-  def name
-    @name
-  end
 end
