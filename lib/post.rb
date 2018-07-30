@@ -6,8 +6,6 @@ class Post
     @name = name
   end
 
-  def author
-    @author
-  end
+
 
 end
